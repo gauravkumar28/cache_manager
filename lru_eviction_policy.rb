@@ -1,0 +1,2 @@
+class LruEvictionPolicy < EvictionPolicy
+end

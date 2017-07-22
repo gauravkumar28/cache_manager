@@ -1,0 +1,2 @@
+class RandomEvictionPolicy < EvictionPolicy
+end
